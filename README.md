@@ -68,3 +68,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 This is an expense tracker based around reactjs
+
+A vanilla javascript program of the same type  is also in my repo
