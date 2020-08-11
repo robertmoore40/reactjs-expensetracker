@@ -11,3 +11,5 @@ export const IncomeExpenses = () => {
     .filter(item => item > 0)
     .reduce((acc, item) => (acc += item), 0)
     .toFixed(2);
+
+    const expense = (
