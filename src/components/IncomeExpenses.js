@@ -3,3 +3,4 @@ import { GlobalContext } from '../context/GlobalState';
 
 
 export const IncomeExpenses = () => {
+    const { transactions } = useContext(GlobalContext);
