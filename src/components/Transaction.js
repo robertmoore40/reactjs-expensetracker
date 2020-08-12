@@ -10,3 +10,4 @@ export const Transaction = ({ transaction }) => {
 
     
   return (
+    <li className={transaction.amount < 0 ? 'minus' : 'plus'}>
