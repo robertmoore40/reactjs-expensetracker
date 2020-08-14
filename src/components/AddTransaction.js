@@ -23,3 +23,4 @@ export const AddTransaction = () => {
 
     <>
     <h3>Add new transaction</h3>
+    <form onSubmit={onSubmit}>
