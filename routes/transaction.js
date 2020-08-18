@@ -7,3 +7,7 @@ router
   .route('/')
   .get(getTransactions)
   .post(addTransaction);
+
+  router
+  .route('/:id')
+  .delete(deleteTransaction);
